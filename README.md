@@ -1,2 +1,2 @@
 # BasicAPIAutomation
-BasicAPIAutomation
+BasicAPIAutomation by Siddharth Mittal 
